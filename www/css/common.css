@@ -1,0 +1,19 @@
+body {background-color: #213B6E; color:white; font-family:arial, helvetica, sans-serif;}
+
+h1 {color: white; font-size: 300%; text-align: center}
+
+
+a:link {color: yellow; text-decoration: none;}
+a:visited {color: yellow; text-decoration: none;}
+a:hover {color: silver; text-decoration: none;}
+
+.menu {color:red; background-color:#D7CCB7; text-align:center; font-size:14pt; padding:5px;}
+
+a.menulink {color: red; text-decoration: none; font-weight:bold;}
+a.menulink:visited {color: red; text-decoration: none; font-weight:bold;}
+a.menulink:hover {color:black; text-decoration: none; font-weight:bold;}
+
+
+
+
+
